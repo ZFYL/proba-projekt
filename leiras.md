@@ -47,3 +47,9 @@ Megyunk a Githubra
 git remote add origin <url>
 git push -u origin master
 ```
+
+# Csinalunk egy uj branchet a mostani tetejen
+
+```
+git checkout -b <branch>
+```
