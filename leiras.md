@@ -38,3 +38,12 @@ git checkout <commit> - visszamegy egy commitra
 git branch - kiirja a brancheket
 git checkout <branch> - valtunk egy branchre
 ```
+
+# Az Git legyen fent a Githubon
+
+Megyunk a Githubra
+
+```
+git remote add origin <url>
+git push -u origin master
+```
