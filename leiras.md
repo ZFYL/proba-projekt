@@ -17,3 +17,10 @@ Most hozzaadjuk a git-hez.
 git add .
 git commit -m "Kezdo commit"
 ```
+
+# Modositunk valamit es commitolunk
+
+```
+git add .
+git commit -m "Modositottuk valamit"
+```
