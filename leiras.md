@@ -34,3 +34,7 @@ git checkout <commit> - visszamegy egy commitra
 
 # Valtas agak kozott
 
+```
+git branch - kiirja a brancheket
+git checkout <branch> - valtunk egy branchre
+```
