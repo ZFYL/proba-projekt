@@ -24,3 +24,13 @@ git commit -m "Kezdo commit"
 git add .
 git commit -m "Modositottuk valamit"
 ```
+
+# Visszamenni korabbi commitra
+
+```
+git log - kiirja a commitokat - q val lehet kilepni
+git checkout <commit> - visszamegy egy commitra
+```
+
+# Valtas agak kozott
+
